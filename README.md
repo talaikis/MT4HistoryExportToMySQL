@@ -1,4 +1,4 @@
-# MT4HistoryExportToMySQL
+# MT4HistoryExportToMySQL (Python)
 
 MT4 History Files Export To MySQL (Python)
 
